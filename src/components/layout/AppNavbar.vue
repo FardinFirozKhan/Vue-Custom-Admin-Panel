@@ -179,7 +179,7 @@ const showNotifications = ref(false)
 const showUserMenu = ref(false)
 const isDark = ref(false)
 
-const userName = ref('Fardin Ahsan')
+const userName = ref('Fardin Khan')
 const userInitials = computed(() => {
   return userName.value.split(' ').map(n => n[0]).join('').toUpperCase()
 })

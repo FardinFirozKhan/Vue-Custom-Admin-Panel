@@ -136,7 +136,7 @@
 import { ref } from 'vue'
 
 const user = ref({
-  name: 'Fardin Ahsan',
+  name: 'Fardin Khan',
   email: 'fardin@example.com',
   phone: '+1 (555) 000-0000',
   role: 'Super Admin',
