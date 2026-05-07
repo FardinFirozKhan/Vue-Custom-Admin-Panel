@@ -4,6 +4,17 @@ TechNest is a state-of-the-art, high-performance admin dashboard built with **Vu
 
 ![TechNest Dashboard](https://raw.githubusercontent.com/FardinFirozKhan/Vue-Custom-Admin-Panel/main/public/preview-mockup.png)
 
+## 📸 Visual Showcase
+
+| | |
+|:---:|:---:|
+| ![Dashboard](./public/screenshots/screen-1.png) | ![Analytics](./public/screenshots/screen-2.png) |
+| ![User Management](./public/screenshots/screen-3.png) | ![Product Inventory](./public/screenshots/screen-4.png) |
+| ![Order Tracking](./public/screenshots/screen-5.png) | ![Settings](./public/screenshots/screen-6.png) |
+| ![Dark Mode Support](./public/screenshots/screen-7.png) | ![Mobile Responsive](./public/screenshots/screen-8.png) |
+| ![Form Validation](./public/screenshots/screen-9.png) | ![Chart Interactivity](./public/screenshots/screen-10.png) |
+| ![Side Panels](./public/screenshots/screen-11.png) | ![Toast Notifications](./public/screenshots/screen-12.png) |
+
 ## ✨ Features
 
 - **💎 Premium Glassmorphism UI**: A stunning, modern design with backdrop blurs, subtle gradients, and sleek dark mode support.
